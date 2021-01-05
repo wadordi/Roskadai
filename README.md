@@ -18,10 +18,9 @@
 `git clone https://github.com/wadordi/wado.git`
 
 ## 使用方法
-``
-
-``
-``
+` `   
+` `  
+` `  
 ``
 ``
 ``
