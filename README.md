@@ -18,6 +18,16 @@
 `git clone https://github.com/wadordi/wado.git`
 
 ## 使用方法
+``
+``
+``
+``
+``
+``
+``
+``
+``
+
 
 ## ライセンス
 "wado" is under [GPL](http://www.gnu.org/licenses/gpl-3.0.html).
